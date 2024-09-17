@@ -1,0 +1,46 @@
+# Archivos generados por el compilador
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+
+# Carpetas de compilación
+/build/
+bin/
+lib/
+
+# Archivos generados por herramientas de construcción
+cmake-build-debug/
+cmake-build-release/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+Makefile.in
+*.cmake
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.user
+
+# Archivos generados por depuradores
+*.dSYM/
+*.ipch
+*.pdb
+*.ilk
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
